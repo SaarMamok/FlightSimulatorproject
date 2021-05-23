@@ -7,7 +7,7 @@ import javafx.scene.layout.Pane;
 
 
 import java.io.IOException;
-
+//kfir
 public class MyJoystick extends Pane {
 
     public DoubleProperty aileron,elevators,rudder,throttle;
